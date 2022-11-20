@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Beau77777
 - 👀 I’m interested in python, java, C ++
 - 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on ?
+- 💞️ I’m looking to collaborate on python
 - 📫 How to reach me don't know yet
 
 <!---
